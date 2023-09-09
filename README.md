@@ -1,1 +1,1 @@
-# atac-seq-to-gene-expression
+# peak-accessibility-and-gene-expression-prediction
